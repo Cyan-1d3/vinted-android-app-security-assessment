@@ -1,0 +1,1 @@
+# vinted-android-app-security-assessment
